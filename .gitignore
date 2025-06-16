@@ -22,9 +22,6 @@ venv/
 *.log
 *.tmp
 
-# CSV / data files (если не нужны в git)
-*.csv
-
 # Python packaging
 *.egg-info/
 dist/
